@@ -1,0 +1,4 @@
+name: DefaultPlugin
+version: 1.0
+author: BowEnder
+main: Plugins.GameName.PluginsManageur.Main
